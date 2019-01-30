@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DaggerMvp</string>
+    <string name="username" translatable="false">USERNAME</string>
+    <string name="password" translatable="false">PASSWORD</string>
+    <string name="login" translatable="false">LOGIN</string>
+</resources>
